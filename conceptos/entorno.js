@@ -1,4 +1,4 @@
-let nombre = process.env.NOMBRE || 'Sin nombre';
+let nombre = process.env.NOMBRE || 'el nombre es default';
 
 console.log(`Hola ${nombre}`);
 
